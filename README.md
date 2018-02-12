@@ -33,15 +33,24 @@ current_theme       pod
 ## Repo Overview
 
 Currently, this repository contains 27 SLiM themes, which i created myself. following themes included,
--bluer                      -boxy                     -bridge
--cayny                      -darksome                 -darky_pink
--desky                      -faded_city               -flat
--flat_green                 -greeny                   -greeny_dark
--hello                      -light_red                -material
--milk                       -milkyway                 -minimal
--overlay                    -panda                    -pinker
--pot                        -sweet_flat               -typogin
--wavy                       -white                    -workspace
+
+> 1. blue ---------------------- 2. boxy --------------------- 3. bridge
+
+> 4. cayny --------------------- 5. darksome ----------------- 6. darky_pink
+
+> 7. desky --------------------- 8. faded_city --------------- 9. flat
+
+> 10. flat_green --------------- 11. greeny ------------------ 12. greeny_dark
+
+> 13. hello -------------------- 14. light_red --------------- 15. material
+
+> 16. milk --------------------- 17. milkyway ---------------- 18. minimal
+
+> 19. overlay ------------------ 20. panda ------------------- 21. pinker
+
+> 22. pot  --------------------- 23. sweet_flat -------------- 24. typogin
+
+> 25. wavy --------------------- 26. white ------------------- 27. workspace
 
 ## Themes Previews
 
@@ -61,7 +70,9 @@ Currently, this repository contains 27 SLiM themes, which i created myself. foll
 
 
 ## Final Words
-> These themes may not prefect & may not work on various screen resolutions.
-> These themes tested on a computer with screen resolution of 1366x768 & works as expected.
-> I did not create these graphics by myself, i just downloaded some free html login templates & ...
-> Enjoy...!
+
+- Please Don't judge my "NAMING THINGS" skills, at least i named each & every.
+- These themes may not prefect & may not work on various screen resolutions.
+- These themes tested on a computer with screen resolution of 1366x768 & works as expected.
+- I did not create these graphics by myself, i just downloaded some free html login templates & ...
+- Enjoy...!
