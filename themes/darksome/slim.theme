@@ -1,0 +1,35 @@
+# darksome theme for SLIM
+# by aditya shakya <adi1090x@gmail.com>
+# using artwork from some free html+css login templates on the internet
+
+# Messages (ie: shutdown)
+
+msg_color               #f9f9f9
+msg_font                Sans:size=18:bold:dpi=75
+msg_x                   50%
+msg_y                   30%
+msg_shadow_color #d31973
+msg_shadow_xoffset 1
+msg_shadow_yoffset 1
+
+# valid values: stretch, tile
+
+background_style        stretch
+background_color        #f2f2f2
+
+# Input controls
+
+input_panel_x           50%
+input_panel_y           50%
+
+input_name_x            210
+input_name_y            143
+
+input_pass_x            210
+input_pass_y            254
+
+input_font              Sans:size=16:dpi=75
+input_color           #d31973
+
+username_msg            
+password_msg            
