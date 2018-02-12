@@ -71,6 +71,7 @@ Currently, this repository contains 27 SLiM themes, which i created myself. foll
 
 ## Final Words
 
+- You may have to edit some panels *(like, to change user images)* according to your need.
 - Please Don't judge my "NAMING THINGS" skills, at least i named each & every.
 - These themes may not prefect & may not work on various screen resolutions.
 - These themes tested on a computer with screen resolution of 1366x768 & works as expected.
