@@ -4,13 +4,17 @@
 
 # Messages (ie: shutdown)
 
-msg_color               #f9f9f9
+msg_color               #ffffff
 msg_font                Sans:size=18:bold:dpi=75
 msg_x                   50%
 msg_y                   30%
-msg_shadow_color #1e1e1e
-msg_shadow_xoffset 1
-msg_shadow_yoffset 1
+
+# Session Name
+
+session_color               #ffffff
+session_font                Sans:size=16:bold:dpi=75
+session_x                   50%
+session_y                   90%
 
 # valid values: stretch, tile
 
@@ -21,13 +25,10 @@ background_color        #f2f2f2
 
 input_panel_x           50%
 input_panel_y           50%
-
 input_name_x            100
 input_name_y            97
-
 input_pass_x            100
 input_pass_y            151
-
 input_font              Sans:size=12:dpi=75
 input_color           #448ed3
 
