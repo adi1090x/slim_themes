@@ -34,6 +34,8 @@ current_theme       pod
 
 Currently, this repository contains 27 SLiM themes, which i created myself. following themes included,
 
+**UPDATE** : Message colors & *Session Name* colors including XY-offset UPDATED. (13feb, 2018)
+
 > 1. blue ---------------------- 2. boxy --------------------- 3. bridge
 
 > 4. cayny --------------------- 5. darksome ----------------- 6. darky_pink
