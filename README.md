@@ -1,5 +1,4 @@
-<!--![slim_logo](https://raw.githubusercontent.com/adi1090x/slim_themes/master/previews/logo_slim.png) <br />-->
-![slim_logo](https://github.com/adi1090x/Files/blob/master/Slim/logo_slim.png) <br />
+![slim_logo](https://raw.githubusercontent.com/adi1090x/slim_themes/master/previews/logo_slim.png) <br />
 
 ## What is SLiM?
 [SLiM](https://sourceforge.net/projects/slim.berlios/) is an acronym for "Simple Login Manager". Lightweight and easily configurable, SLiM requires minimal dependencies, and none from the *GNOME* or *KDE* desktop environments. It therefore contributes towards a lightweight system for users that also like to use lightweight desktops such as *Xfce*, *Openbox*, and *Fluxbox*. 
