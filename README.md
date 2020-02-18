@@ -1,5 +1,13 @@
 ![slim_logo](https://raw.githubusercontent.com/adi1090x/slim_themes/master/previews/logo_slim.png) <br />
 
+<p align="center">
+  <img src="https://img.shields.io/badge/Maintained%3F-Yes-blueviolet?style=flat-square">
+  <img src="https://img.shields.io/github/license/adi1090x/slim_themes?style=flat-square">
+  <img src="https://img.shields.io/github/stars/adi1090x/slim_themes?color=red&style=flat-square">
+  <img src="https://img.shields.io/github/forks/adi1090x/slim_themes?style=flat-square">
+  <img src="https://img.shields.io/github/issues/adi1090x/slim_themes?style=flat-square">
+</p>
+
 ## What is SLiM?
 [SLiM](https://sourceforge.net/projects/slim.berlios/) is an acronym for "Simple Login Manager". Lightweight and easily configurable, SLiM requires minimal dependencies, and none from the *GNOME* or *KDE* desktop environments. It therefore contributes towards a lightweight system for users that also like to use lightweight desktops such as *Xfce*, *Openbox*, and *Fluxbox*. 
 
@@ -21,8 +29,8 @@ $ sudo pacman -S slim
 
 ## How to use
 
-clone this repository (suppose in /home/user/) & then copy all themes in */usr/share/slim/themes*.
-To apply new theme, enter the theme name on the current_theme line in /etc/slim.conf:
+clone this repository & then copy all themes in */usr/share/slim/themes*.
+To apply new theme, enter the theme name on the current_theme line in ***/etc/slim.conf***:
 
 ```sh
 #current_theme       default
@@ -30,45 +38,79 @@ current_theme       milk
 ```
 **Help** : For extra help, follow this [article](https://wiki.archlinux.org/index.php/SLiM).
 
-## Repo Overview
+## Overview
 
-Currently, this repository contains 27 SLiM themes, which i created myself. following themes included,
+Currently, this repository contains 27 SLiM themes.
 
-**UPDATE** : Message colors & *Session Name* colors including XY-offset UPDATED. (13feb, 2018)
+|Themes|...|...|
+|--|--|--|
+|blue|boxy|bridge|
+|cayny|darksome|darky_pink|
+|desky|faded_city|flat|
+|flat_green|greeny|greeny_dark|
+|hello|light_red|material|
+|milk|milkyway|minimal|
+|overlay|panda|pinker|
+|pot|sweet_flat|typogin|
+|wavy|white|workspace|
 
-> 1. blue ---------------------- 2. boxy --------------------- 3. bridge
+## Previews
 
-> 4. cayny --------------------- 5. darksome ----------------- 6. darky_pink
+bluer|boxy
+|--|--|
+![img](https://raw.githubusercontent.com/adi1090x/slim_themes/master/previews/bluer.png)|![img](https://raw.githubusercontent.com/adi1090x/slim_themes/master/previews/boxy.png)
 
-> 7. desky --------------------- 8. faded_city --------------- 9. flat
+bridge|cyany
+|--|--|
+![img](https://raw.githubusercontent.com/adi1090x/slim_themes/master/previews/bridge.png)|![img](https://raw.githubusercontent.com/adi1090x/slim_themes/master/previews/cyany.png)
 
-> 10. flat_green --------------- 11. greeny ------------------ 12. greeny_dark
+darksome|darky_pink
+|--|--|
+![img](https://raw.githubusercontent.com/adi1090x/slim_themes/master/previews/darksome.png)|![img](https://raw.githubusercontent.com/adi1090x/slim_themes/master/previews/darky_pink.png)
 
-> 13. hello -------------------- 14. light_red --------------- 15. material
+desky|faded_city
+|--|--|
+![img](https://raw.githubusercontent.com/adi1090x/slim_themes/master/previews/desky.png)|![img](https://raw.githubusercontent.com/adi1090x/slim_themes/master/previews/faded_city.png)
 
-> 16. milk --------------------- 17. milkyway ---------------- 18. minimal
+flat|flat_green
+|--|--|
+![img](https://raw.githubusercontent.com/adi1090x/slim_themes/master/previews/flat.png)|![img](https://raw.githubusercontent.com/adi1090x/slim_themes/master/previews/flat_green.png)
 
-> 19. overlay ------------------ 20. panda ------------------- 21. pinker
+greeny|greeny_dark
+|--|--|
+![img](https://raw.githubusercontent.com/adi1090x/slim_themes/master/previews/greeny.png)|![img](https://raw.githubusercontent.com/adi1090x/slim_themes/master/previews/greeny_dark.png)
 
-> 22. pot  --------------------- 23. sweet_flat -------------- 24. typogin
+hello|light_red
+|--|--|
+![img](https://raw.githubusercontent.com/adi1090x/slim_themes/master/previews/hello.png)|![img](https://raw.githubusercontent.com/adi1090x/slim_themes/master/previews/light_red.png)
 
-> 25. wavy --------------------- 26. white ------------------- 27. workspace
+material|milk
+|--|--|
+![img](https://raw.githubusercontent.com/adi1090x/slim_themes/master/previews/material.png)|![img](https://raw.githubusercontent.com/adi1090x/slim_themes/master/previews/milk.png)
 
-## Themes Previews
+milkyway|minimal
+|--|--|
+![img](https://raw.githubusercontent.com/adi1090x/slim_themes/master/previews/milkyway.png)|![img](https://raw.githubusercontent.com/adi1090x/slim_themes/master/previews/minimal.png)
 
-![themes_preview](https://raw.githubusercontent.com/adi1090x/slim_themes/master/previews/preview_1.png) <br />
-![themes_preview](https://raw.githubusercontent.com/adi1090x/slim_themes/master/previews/preview_2.png) <br />
-![themes_preview](https://raw.githubusercontent.com/adi1090x/slim_themes/master/previews/preview_3.png) <br />
-![themes_preview](https://raw.githubusercontent.com/adi1090x/slim_themes/master/previews/preview_4.png) <br />
-![themes_preview](https://raw.githubusercontent.com/adi1090x/slim_themes/master/previews/preview_5.png) <br />
-![themes_preview](https://raw.githubusercontent.com/adi1090x/slim_themes/master/previews/preview_6.png) <br />
-![themes_preview](https://raw.githubusercontent.com/adi1090x/slim_themes/master/previews/preview_7.png) <br />
-![themes_preview](https://raw.githubusercontent.com/adi1090x/slim_themes/master/previews/preview_8.png) <br />
-![themes_preview](https://raw.githubusercontent.com/adi1090x/slim_themes/master/previews/preview_9.png) <br />
-![themes_preview](https://raw.githubusercontent.com/adi1090x/slim_themes/master/previews/preview_10.png) <br />
-![themes_preview](https://raw.githubusercontent.com/adi1090x/slim_themes/master/previews/preview_11.png) <br />
-![themes_preview](https://raw.githubusercontent.com/adi1090x/slim_themes/master/previews/preview_12.png) <br />
-![themes_preview](https://raw.githubusercontent.com/adi1090x/slim_themes/master/previews/preview_13.png) <br />
+overlay|panda
+|--|--|
+![img](https://raw.githubusercontent.com/adi1090x/slim_themes/master/previews/overlay.png)|![img](https://raw.githubusercontent.com/adi1090x/slim_themes/master/previews/panda.png)
+
+pinker|pot
+|--|--|
+![img](https://raw.githubusercontent.com/adi1090x/slim_themes/master/previews/pinker.png)|![img](https://raw.githubusercontent.com/adi1090x/slim_themes/master/previews/pot.png)
+
+sweet_flat|typogin
+|--|--|
+![img](https://raw.githubusercontent.com/adi1090x/slim_themes/master/previews/sweet_flat.png)|![img](https://raw.githubusercontent.com/adi1090x/slim_themes/master/previews/typogin.png)
+
+wavy|white
+|--|--|
+![img](https://raw.githubusercontent.com/adi1090x/slim_themes/master/previews/wavy.png)|![img](https://raw.githubusercontent.com/adi1090x/slim_themes/master/previews/white.png)
+
+|workspace|
+|--|
+|![img](https://raw.githubusercontent.com/adi1090x/slim_themes/master/previews/workspace.png)|
 
 
 ## Final Words
