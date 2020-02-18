@@ -38,22 +38,6 @@ current_theme       milk
 ```
 **Help** : For extra help, follow this [article](https://wiki.archlinux.org/index.php/SLiM).
 
-## Overview
-
-Currently, this repository contains 27 SLiM themes.
-
-|Themes|...|...|
-|--|--|--|
-|blue|boxy|bridge|
-|cayny|darksome|darky_pink|
-|desky|faded_city|flat|
-|flat_green|greeny|greeny_dark|
-|hello|light_red|material|
-|milk|milkyway|minimal|
-|overlay|panda|pinker|
-|pot|sweet_flat|typogin|
-|wavy|white|workspace|
-
 ## Previews
 
 bluer|boxy
@@ -104,14 +88,9 @@ sweet_flat|typogin
 |--|--|
 ![img](https://raw.githubusercontent.com/adi1090x/slim_themes/master/previews/sweet_flat.png)|![img](https://raw.githubusercontent.com/adi1090x/slim_themes/master/previews/typogin.png)
 
-wavy|white
+wavy|workspace
 |--|--|
-![img](https://raw.githubusercontent.com/adi1090x/slim_themes/master/previews/wavy.png)|![img](https://raw.githubusercontent.com/adi1090x/slim_themes/master/previews/white.png)
-
-|workspace|
-|--|
-|![img](https://raw.githubusercontent.com/adi1090x/slim_themes/master/previews/workspace.png)|
-
+![img](https://raw.githubusercontent.com/adi1090x/slim_themes/master/previews/wavy.png)|![img](https://raw.githubusercontent.com/adi1090x/slim_themes/master/previews/workspace.png)
 
 ## Final Words
 
