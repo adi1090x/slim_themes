@@ -62,7 +62,7 @@ bluer|boxy
 
 bridge|cyany
 |--|--|
-![img](https://raw.githubusercontent.com/adi1090x/slim_themes/master/previews/bridge.png)|![img](https://raw.githubusercontent.com/adi1090x/slim_themes/master/previews/cyany.png)
+![img](https://raw.githubusercontent.com/adi1090x/slim_themes/master/previews/bridge.png)|![img](https://raw.githubusercontent.com/adi1090x/slim_themes/master/previews/cayny.png)
 
 darksome|darky_pink
 |--|--|
