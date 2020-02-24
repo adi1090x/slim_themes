@@ -94,7 +94,12 @@ sweet_flat|typogin
 
 wavy|workspace
 |--|--|
-![img](https://raw.githubusercontent.com/adi1090x/slim_themes/master/previews/wavy.png)|![img](https://raw.githubusercontent.com/adi1090x/slim_themes/master/previews/workspace.png)
+![img](https://raw.githubusercontent.com/adi1090x/slim_themes/master/previews/wavy.png)|![img](https://raw.githubusercontent.com/adi1090x/slim_themes/master/previews/workspace.png) <br />
+
+**Support Me**, If You Like My Work & Want Me To Keep Doing It, Much Appreciate.
+<p align="left">
+<a href="https://www.paypal.me/adi1090x" target="_blank"><img alt="undefined" src="https://img.shields.io/badge/paypal-adi1090x-blue?style=for-the-badge&logo=paypal"></a> <a href="https://www.buymeacoffee.com/adi1090x" target="_blank"><img alt="undefined" src="https://img.shields.io/badge/BuyMeAcoffee-adi1090x-orange?style=for-the-badge&logo=buy-me-a-coffee"></a>  
+</p>
 
 ## Final Words
 
