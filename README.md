@@ -8,6 +8,10 @@
   <img src="https://img.shields.io/github/issues/adi1090x/slim_themes?style=flat-square">
 </p>
 
+<p align="center">
+<a href="https://www.buymeacoffee.com/adi1090x" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-blue.png" alt="Buy Me A Coffee" style="height: 51px !important;width: 217px !important;" ></a>
+</p>
+
 ## What is SLiM?
 [SLiM](https://sourceforge.net/projects/slim.berlios/) is an acronym for "Simple Login Manager". Lightweight and easily configurable, SLiM requires minimal dependencies, and none from the *GNOME* or *KDE* desktop environments. It therefore contributes towards a lightweight system for users that also like to use lightweight desktops such as *Xfce*, *Openbox*, and *Fluxbox*. 
 
