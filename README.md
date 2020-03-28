@@ -1,6 +1,7 @@
-![slim_logo](https://raw.githubusercontent.com/adi1090x/slim_themes/master/previews/logo_slim.png) <br />
+<!--![slim_logo](https://raw.githubusercontent.com/adi1090x/slim_themes/master/previews/logo_slim.png) <br /> -->
+# Slim-themes
 
-<p align="center">
+<p align="left">
   <img src="https://img.shields.io/badge/Maintained%3F-Yes-blueviolet?style=flat-square">
   <img src="https://img.shields.io/github/license/adi1090x/slim_themes?style=flat-square">
   <img src="https://img.shields.io/github/stars/adi1090x/slim_themes?color=red&style=flat-square">
@@ -8,17 +9,17 @@
   <img src="https://img.shields.io/github/issues/adi1090x/slim_themes?style=flat-square">
 </p>
 
-<p align="center">
+<p align="left">
 <a href="https://www.buymeacoffee.com/adi1090x"><img src="https://raw.githubusercontent.com/adi1090x/files/master/other/bmac.png" alt="Buy Me A Coffee"></a>
 <a href="https://ko-fi.com/adi1090x"><img src="https://raw.githubusercontent.com/adi1090x/files/master/other/kofi.png" alt="Support me on ko-fi"></a>
 </p>
 
-## What is SLiM?
+### What is SLiM?
 [SLiM](https://sourceforge.net/projects/slim.berlios/) is an acronym for "Simple Login Manager". Lightweight and easily configurable, SLiM requires minimal dependencies, and none from the *GNOME* or *KDE* desktop environments. It therefore contributes towards a lightweight system for users that also like to use lightweight desktops such as *Xfce*, *Openbox*, and *Fluxbox*. 
 
 **Warning** : The SliM project has been abandoned (last release was 2013, the project homepage is down), and is not fully compatible with *systemd*, including *logind sessions*. Consider using a different *Display manager* or *Xinitrc*.
 
-## Installation
+### Installation
 
 **On Ubuntu** : To install SLiM in ubuntu and ubuntu based os,
 
@@ -32,7 +33,7 @@ $ sudo apt-get install slim
 $ sudo pacman -S slim
 ```
 
-## How to use
+### How to use
 
 clone this repository & then copy all themes in */usr/share/slim/themes*.
 To apply new theme, enter the theme name on the current_theme line in ***/etc/slim.conf***:
@@ -43,7 +44,7 @@ current_theme       milk
 ```
 **Help** : For extra help, follow this [article](https://wiki.archlinux.org/index.php/SLiM).
 
-## Previews
+### Previews
 
 bluer|boxy
 |--|--|
@@ -97,14 +98,14 @@ wavy|workspace
 |--|--|
 ![img](https://raw.githubusercontent.com/adi1090x/slim_themes/master/previews/wavy.png)|![img](https://raw.githubusercontent.com/adi1090x/slim_themes/master/previews/workspace.png) <br />
 
-### Support Me
+### Support This Project
 <p align="left">
 <a href="https://www.paypal.me/adi1090x" target="_blank"><img alt="undefined" src="https://img.shields.io/badge/paypal-adi1090x-blue?style=for-the-badge&logo=paypal"></a>
 <a href="https://www.buymeacoffee.com/adi1090x" target="_blank"><img alt="undefined" src="https://img.shields.io/badge/BuyMeAcoffee-adi1090x-orange?style=for-the-badge&logo=buy-me-a-coffee"></a>  
 <a href="https://ko-fi.com/adi1090x" target="_blank"><img alt="undefined" src="https://img.shields.io/badge/KoFi-adi1090x-red?style=for-the-badge&logo=ko-fi"></a>  
 </p>
 
-## Final Words
+### Final Words
 
 - You may have to edit some panels *(like, to change user images)* according to your need.
 - Please Don't judge my "NAMING THINGS" skills, at least i named each & every.
