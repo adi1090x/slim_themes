@@ -35,8 +35,8 @@ $ sudo pacman -S slim
 
 ### How to use
 
-clone this repository & then copy all themes in */usr/share/slim/themes*.
-To apply new theme, enter the theme name on the current_theme line in ***/etc/slim.conf***:
+clone this repository & then copy all themes in `/usr/share/slim/themes`.
+To apply new theme, enter the theme name on the current_theme line in ***/etc/slim.conf*** -
 
 ```sh
 #current_theme       default
@@ -107,9 +107,9 @@ wavy|workspace
 
 ### Final Words
 
-- You may have to edit some panels *(like, to change user images)* according to your need.
-- Please Don't judge my "NAMING THINGS" skills, at least i named each & every.
+- You may have to edit some panel images *(like, to change user images)* according to your need.
+- Please don't judge my "NAMING THINGS" skills, at least i named each & every.
 - These themes may not prefect & may not work on various screen resolutions.
-- These themes tested on a computer with screen resolution of 1366x768 & works as expected.
+- These themes are tested on a computer with screen resolution of 1366x768 & works as expected.
 - I did not create these graphics by myself, i just downloaded some free html login templates & ...
 - Enjoy...!
