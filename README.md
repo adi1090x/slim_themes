@@ -1,17 +1,20 @@
-<!--![slim_logo](https://raw.githubusercontent.com/adi1090x/slim_themes/master/previews/logo_slim.png) <br /> -->
-# Slim-themes
+<!-- ![slim_logo](https://raw.githubusercontent.com/adi1090x/slim_themes/master/previews/logo_slim.png) <br /> -->
 
-<p align="left">
-  <img src="https://img.shields.io/badge/Maintained%3F-Yes-blueviolet?style=flat-square">
-  <img src="https://img.shields.io/github/license/adi1090x/slim_themes?style=flat-square">
-  <img src="https://img.shields.io/github/stars/adi1090x/slim_themes?color=red&style=flat-square">
-  <img src="https://img.shields.io/github/forks/adi1090x/slim_themes?style=flat-square">
-  <img src="https://img.shields.io/github/issues/adi1090x/slim_themes?style=flat-square">
+<h1 align="center">Slim-themes</h1>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Maintained%3F-Yes-green?style=for-the-badge">
+  <img src="https://img.shields.io/github/license/adi1090x/slim_themes?style=for-the-badge">
+  <img src="https://img.shields.io/github/stars/adi1090x/slim_themes?style=for-the-badge">
+  <img src="https://img.shields.io/github/forks/adi1090x/slim_themes?color=teal&style=for-the-badge">
+  <img src="https://img.shields.io/github/issues/adi1090x/slim_themes?color=violet&style=for-the-badge">
 </p>
 
-<p align="left">
-<a href="https://www.buymeacoffee.com/adi1090x"><img src="https://raw.githubusercontent.com/adi1090x/files/master/other/bmac.png" alt="Buy Me A Coffee"></a>
-<a href="https://ko-fi.com/adi1090x"><img src="https://raw.githubusercontent.com/adi1090x/files/master/other/kofi.png" alt="Support me on ko-fi"></a>
+<p align="center">
+<a href="https://www.buymeacoffee.com/adi1090x"><img src="https://raw.githubusercontent.com/adi1090x/files/master/other/1.png" alt="Buy Me A Coffee"></a>
+<a href="https://ko-fi.com/adi1090x"><img src="https://raw.githubusercontent.com/adi1090x/files/master/other/2.png" alt="Support me on ko-fi"></a>
+<a href="https://www.paypal.me/adi1090x"><img src="https://raw.githubusercontent.com/adi1090x/files/master/other/3.png" alt="Support me on Paypal"></a>
+<a href="https://www.patreon.com/adi1090x"><img src="https://raw.githubusercontent.com/adi1090x/files/master/other/4.png" alt="Support me on Patreon"></a>
 </p>
 
 ### What is SLiM?
@@ -98,14 +101,7 @@ wavy|workspace
 |--|--|
 ![img](https://raw.githubusercontent.com/adi1090x/slim_themes/master/previews/wavy.png)|![img](https://raw.githubusercontent.com/adi1090x/slim_themes/master/previews/workspace.png) <br />
 
-### Support This Project
-<p align="left">
-<a href="https://www.paypal.me/adi1090x" target="_blank"><img alt="undefined" src="https://img.shields.io/badge/paypal-adi1090x-blue?style=for-the-badge&logo=paypal"></a>
-<a href="https://www.buymeacoffee.com/adi1090x" target="_blank"><img alt="undefined" src="https://img.shields.io/badge/BuyMeAcoffee-adi1090x-orange?style=for-the-badge&logo=buy-me-a-coffee"></a>  
-<a href="https://ko-fi.com/adi1090x" target="_blank"><img alt="undefined" src="https://img.shields.io/badge/KoFi-adi1090x-red?style=for-the-badge&logo=ko-fi"></a>  
-</p>
-
-### Final Words
+### FYI
 
 - You may have to edit some panel images *(like, to change user images)* according to your need.
 - Please don't judge my "NAMING THINGS" skills, at least i named each & every.
