@@ -1,6 +1,6 @@
 <!-- ![slim_logo](https://raw.githubusercontent.com/adi1090x/slim_themes/master/previews/logo_slim.png) <br /> -->
 
-<h1 align="center">Slim-themes</h1>
+<h1 align="center">SLiM Themes</h1>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Maintained%3F-Yes-green?style=for-the-badge">
