@@ -11,10 +11,10 @@ msg_y                   30%
 
 # Session Name
 
-session_color               #ffffff
-session_font                Sans:size=16:bold:dpi=75
-session_x                   50%
-session_y                   90%
+session_color           #ffffff
+session_font            Sans:size=16:bold:dpi=75
+session_x               50%
+session_y               90%
 
 # valid values: stretch, tile
 
@@ -30,7 +30,13 @@ input_name_y            50
 input_pass_x            330
 input_pass_y            52
 input_font              Sans:size=13:bold:dpi=75
-input_color           #f15a5c
+input_color             #f15a5c
 
-username_msg            
-password_msg            
+username_msg
+password_msg
+
+# Authentication
+
+password_feedback_x     50%
+password_feedback_y     30%
+password_feedback_msg   Authentication failed
